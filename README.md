@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Mahmudul Hasan</strong></h1>
-<h3 align="center">💻 Full Stack Web Developer 🌐 Building scalable web applications 🚀 Frontend | Backend | Database 📍 Always learning, always coding</h3>
+<h3 align="center">💻 Full Stack Web Developer 🌐 Building scalable web applications 🚀 Frontend | Backend | Database </h3>
 
 <p align="center">
-  
+  Social <a href="https://linkedin.com/in/tapasadhikary">LinkedIn</a> |
+  <a href="https://x.com/IdbTechnol89109">Twitter</a> |
+  <a href="https://idbhasan549.blogspot.com/">🌐 Website</a>
 </p>
-
 
 <a ><img src="./social-image/github-banner.png" alt="GitRoll Profile Badge"/></a>
 
@@ -69,6 +70,8 @@ I enjoy solving problems with code, learning new technologies, and turning ideas
 ## 💬 Let's `Connect`
 
 I'm always open to connecting with fellow developers, collaborating on interesting projects, and exploring new opportunities in web development.
+
+
 
 📧 Email       : mahmudulmh519@gmail.com  
 🌐 Website      : https://idbhasan549.blogspot.com  
