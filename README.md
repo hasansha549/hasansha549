@@ -4,6 +4,7 @@
 <p align="center">
   Social <a href="https://linkedin.com/in/tapasadhikary">LinkedIn</a> |
   <a href="https://x.com/IdbTechnol89109">Twitter</a> |
+  <a href="https://discord.com/channels/@me">Discord</a> |
   <a href="https://idbhasan549.blogspot.com/">🌐 Website</a>
 </p>
 
