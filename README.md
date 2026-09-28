@@ -66,10 +66,10 @@ I enjoy solving problems with code, learning new technologies, and turning ideas
 * Debugging
 * Clean & Maintainable Code
 
-## 💬 Let's Connect
+## 💬 Let's `Connect`
 
-If you want to collaborate on building products, AI solutions, or want me to speak at your event:
+I'm always open to connecting with fellow developers, collaborating on interesting projects, and exploring new opportunities in web development.
 
-📧 Email: mahmudulmh519@gmail.com  
-🌐 Website: https://idbhasan549.blogspot.com  
+📧 Email       : mahmudulmh519@gmail.com  
+🌐 Website      : https://idbhasan549.blogspot.com  
 💼 LinkedIn: https://www.linkedin.com/in/md-hasan-b83947355
