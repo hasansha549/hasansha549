@@ -73,3 +73,11 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 📧 Email       : mahmudulmh519@gmail.com  
 🌐 Website      : https://idbhasan549.blogspot.com  
 💼 LinkedIn: https://www.linkedin.com/in/md-hasan-b83947355
+
+## 📚 My Learning Journey
+
+I started my journey as a *self-taught developer, learning through online resources, documentation, tutorials, and hands-on projects. Instead of only learning theory, I focus on **practical problem-solving and building real-world projects*.
+
+> *Learn → Practice → Build → Improve → Repeat 🚀*
+
+I'm continuously learning, building projects, and improving my skills as a Full Stack Web Developer.
