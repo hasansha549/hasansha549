@@ -1,4 +1,4 @@
-<h1 align="center">Hi there i'm Mahmudul Hasan</strong></h1>
+<h1 align="center">Hi, I'm Mahmudul Hasan</strong></h1>
 <h3 align="center">💻 Full Stack Web Developer 🌐 Building scalable web applications 🚀 Frontend | Backend | Database 📍 Always learning, always coding</h3>
 
 <p align="center">
@@ -14,3 +14,62 @@ I’m **Mahmudul Hasan**, a *self-taught Full Stack Web Developer* passionate ab
 
 I enjoy solving problems with code, learning new technologies, and turning ideas into functional web applications. My long-term goal is to continue improving my development skills and grow as a professional *Software Engineer*.
 
+## 🚀 Skills & Technologies
+
+### 🎨 Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Bootstrap
+* Tailwind CSS
+* Responsive Web Design
+* DOM Manipulation
+* Event Handling
+* API Integration
+
+### ⚙️ Backend Development
+
+* Node.js
+* Express.js
+* Python
+* Django
+* Flask
+* FastAPI
+* REST API Development
+
+### 🗄️ Database
+
+* MySQL
+* Database Management
+* CRUD Operations
+
+### 🛠️ Tools & Development
+
+* Git
+* GitHub
+* VS Code
+* npm / Yarn
+* Vite
+* Chrome DevTools
+
+### 💡 Core Development Skills
+
+* Problem Solving
+* Object-Oriented Programming
+* Asynchronous JavaScript
+* Promises & Async/Await
+* Fetch API
+* Local Storage
+* API Integration
+* Debugging
+* Clean & Maintainable Code
+
+## 💬 Let's Connect
+
+If you want to collaborate on building products, AI solutions, or want me to speak at your event:
+
+📧 Email: mahmudulmh519@gmail.com  
+🌐 Website: https://idbhasan549.blogspot.com  
+💼 LinkedIn: https://www.linkedin.com/in/md-hasan-b83947355
